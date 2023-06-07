@@ -14,17 +14,17 @@ approving the loan may lead to financial loss to the company.
 
 ## Recommendations after completing the analysis
 - Create products targeted for high income group customers
--- This will increase the market share of the high income group customers
--- They are more likely to repay compared to low income group customers
+  - This will increase the market share of the high income group customers
+  - They are more likely to repay compared to low income group customers
 - Loans issued for round figure incomes are considerably higher, there is a need to understand why this is happening
--- Improvement in verification process
--- Improvement in KYC process to collect more accurate data
+  - Improvement in verification process
+  - Improvement in KYC process to collect more accurate data
 - Uniform sales across the year
--- Offer better incentives and place better processes for sales team to perform uniformly across the year rather than slog at the end of the year compromising the quality of the loan issued
+  - Offer better incentives and place better processes for sales team to perform uniformly across the year rather than slog at the end of the year compromising the quality of the loan issued
 - Offer more loans for categories other than debt consolidation
--- This will diversify portfolio for Lending Club and hence reduce overall credit risk
+  - This will diversify portfolio for Lending Club and hence reduce overall credit risk
 - There is a higher risk exposure due to the number of loans issued to borrowers who have a mortgage
--- Diversify portfolio by extending loan to borrowers who have less credit to pay
+  - Diversify portfolio by extending loan to borrowers who have less credit to pay
 
 ## Python Libraries Used
 - pandas
