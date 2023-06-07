@@ -9,8 +9,7 @@ approving the loan may lead to financial loss to the company.
 ## File Information
 - Sabhrant_Srivastava.pdf - This file explains the steps taken to carry out the exploratory data analysis for this case study.
 - lending_club_case_study_notebook.ipynb - This file contains Python code used for data reading, cleansing, analysis and graph generation
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- lending_club_case_study_notebook.zip - This is a zipped file mentioned in point 2. Please ignore this file.
 
 ## Recommendations after completing the analysis
 - Create products targeted for high income group customers
